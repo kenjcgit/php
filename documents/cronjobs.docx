@@ -1,0 +1,27 @@
+Cronjobs documentation
+
+
+Cronjobs are used for sending push notifications to the mobile users.
+
+
+Notificaiton management : 
+
+Notification type : automatic
+
+	it will send the automatic notification to the users for perticular selected event. Automatic notification will send push before 48 hours and 24 hours of event start date.
+
+Notification type : mannual
+
+	It will send a mannual typed push notification to the user for perticular selected date and time.
+
+Interval type : default 
+
+	if notificaiton type is selected as automatic then only it will allows to select default, it will send notification on 48 and 24 hours before of event start date time
+
+Interval type : Selected Date
+
+	It will send notification on perticular selected date, if event type is automatic then it will sent notification for perticular event on selected date time.
+
+Notification Category : 
+
+	There are different types of categories/ activities of event, Notification category will allows you to select perticular event, it will sent a push notification for perticular type of events. Event Reminder is appears only when Automatic event type and Relative event is selected.
