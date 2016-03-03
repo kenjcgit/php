@@ -1,0 +1,6 @@
+<?php
+$glob['dbdatabase'] = 'kenjcorg_mobileapp';
+$glob['dbhost'] = 'localhost';
+$glob['dbusername'] = 'kenjcorg_mobuser';
+$glob['dbpassword'] = 'xLsCFoi,0F]G';
+?>
